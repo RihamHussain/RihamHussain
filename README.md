@@ -269,10 +269,19 @@ A desktop system for managing factory operations, user access, and owner–emplo
 
 ---
 
-📄 **Full Resume:**  
+## 📄 **Full Resume:**  
 [Click here to view the resume PDF](https://drive.google.com/file/d/1LypF0tl4O5q4bckqojUtmCam7Zcoyp6u/view?usp=sharing)
 
 ---
+
+## 🌐 Portfolio
+
+For a complete overview of my work, case studies, and showcased AI projects, visit my portfolio:
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://riham-hussain.netlify.app/)
+
+---
+
 
 ## 📫 Connect With Me
 **Email:** t-riham.hussain@zewailcity.edu.eg  
